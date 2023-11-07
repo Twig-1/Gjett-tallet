@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gjett tallet</title>
+    <style>
 
+    </style>
+</head>
+<script>
+
+    window.onload = begin
+
+    function begin() {
+        
+    }
+</script>
+<body>
+    <div>
+        <h1 id="title">Gjett tallet 1-100</h1>
+        
+    </div>
+    <div id="svar">
+
+    </div>
+</body>
+</html>
